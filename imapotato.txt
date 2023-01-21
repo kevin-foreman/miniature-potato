@@ -3,3 +3,6 @@ FILE a
 // I'm a potato as well
 // Stay tuned for more!
 // I'm a potato in a tornado woahh!
+
+// This is the change after adding my repository as a new remote called 'upstream' and pulling the changes from your remote. It all worked out. I have the page I used on Github
+// saved to reference, if you need it.
